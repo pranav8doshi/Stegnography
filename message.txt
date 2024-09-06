@@ -1,0 +1,2 @@
+Steganography is the practice of concealing messages or information within other non-suspicious digital files, such as images. 
+Unlike encryption, which hides the content of a message, steganography hides the existence of the message itself, making it harder to detect.
