@@ -18,7 +18,7 @@ Main Menu: The user is presented with a menu to either encode or decode an image
 Steps to Run the Code:
 
 Source Code Compilation
-First, you need to compile the C program named Steganography.c. 
+First, you need to compile the C program named Steganography.c
 To do this, use the GCC compiler with the following command: gcc -o Steganography Steganography.c -lz
 This will compile the source code and create an executable file named Steganography.
 
@@ -27,10 +27,10 @@ Once the program is compiled, you can run it using the command: ./Steganography
 
 Input Files
 message.txt: This file should contain the text you wish to hide within the image.
-stego.jpg: This is the image file in which you can hide te data.
+stego.jpg: This is the image file in which you can hide the data.
 
 Output Files
-stego.jpg: The original file will be modifies to  add the data to be hidden.
+stego.jpg: The original file will be modified to  add the data to be hidden.
 output.txt: After hiding the text, the program will generate this file to display the hidden message extracted from the image.
 
 By following these steps, you will be able to hide and later retrieve secret text messages inside images using steganography.
